@@ -16,5 +16,5 @@ Este repositório contém scripts úteis para redefinir o aplicativo Cursor e o 
 Use o script [`reset_cursor.sh`](cursor/reset_cursor.sh) para remover todos os dados locais do Cursor:
 
 ```sh
-bash [reset_cursor.sh](http://_vscodecontentref_/0)
+bash reset_cursor.sh
 ```
